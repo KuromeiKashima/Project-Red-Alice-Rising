@@ -11,7 +11,6 @@ What are the compatible Operating Systems? (OS Compatibility)
 Well so far it's designed for MacOSX, Linux/UNIX, Debian and Windows
 and has been tested thoroughly on Windows 10 and Linux Operating Systems.
 
-https://28d3936301bf41f48db95e52699e7f51@o417021.ingest.sentry.io/5314871
 """
 
 
