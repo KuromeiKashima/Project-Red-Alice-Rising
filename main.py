@@ -141,7 +141,7 @@ while True:
     elif userInput in Help:
         print("How can I help?")
         
-    elif userInput in searchFor:
+    elif userInput == searchFor:
         print("Ok! what do you want to search for?")
         searchInput = input("(write query here) ")
         url='https://google.com/search?q='+searchInput
