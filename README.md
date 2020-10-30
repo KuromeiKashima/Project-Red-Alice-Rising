@@ -1,6 +1,8 @@
-# Personal-Assistant
-A python VA (Virtual Assistant) currently this version has no voice input until i can get the main logic down,
-then I'll start working on voice recoginition and a switch to swap between voice and text inputs.
+# What is Red Alice Rising?
+Besides a bad name for a virtual assistant called Alice? Not much at the moment, currently I'm working on the basic text input, next is "memory," and then speech, then finally, more advanced computer controlling!
 
-# Required modules to test it:
-> pytz
+# What languages are being used?
+Solely right now is just Python, if the need rises I may use things like C# or JavaScript but I'm trying to keep it as close to Python-Only as possible
+
+# How often will you update it?
+Between work and schooling? *I'll try at least 1-2 every couple of weeks, maybe someone from the crowd could help?*
